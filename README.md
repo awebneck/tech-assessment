@@ -2,6 +2,13 @@
 
 A Small clojure app submitted as the technical assessment of an interview
 
+## Prerequisites
+
+This app requires the following to be installed:
+- Java
+- Leiningen
+- Docker and Docker Compose
+
 ## Usage
 
 1. Run `docker-compose up` to start up kafka and zookeeper.
@@ -14,5 +21,4 @@ A Small clojure app submitted as the technical assessment of an interview
 
 Copyright © 2018 Jeremy Holland
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License either version 1.0 or any later version.
